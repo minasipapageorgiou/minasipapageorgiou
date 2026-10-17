@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Minas 👋
 
 I'm an enthusiastic cybersecurity learner currently pursuing my **MSc in Cybersecurity**. I enjoy analyzing vulnerabilities, exploring both offensive and defensive security concepts, and building hands-on labs.
 
